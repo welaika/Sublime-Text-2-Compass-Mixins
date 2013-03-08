@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Sublime Text 2 Compass Mixins",
+			"description": "Sublime Text 2 Compass Package is a collection of Compass mixins autocompletions for Sublime Text 2",
+			"author": "welaika",
+			"homepage": "https://github.com/welaika/Sublime-Text-2-Compass-Mixins",
+			"last_modified": "ven 8 mar 2013, 11.02.08, CET"
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1",
+						"url": "https://nodeload.github.com/welaika/Sublime-Text-2-Compass-Mixins/zip/0.1"
+					}
+				]
+			}
+		}
+	]
+}

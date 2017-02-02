@@ -12,6 +12,10 @@ Clone into your sublime-text-2 package directory.
 ## Need more tools?
 Visit [Wordpress Tools](http://wptools.it).
 
+## Author
+
+made with ❤️ and ☕️ by [weLaika](http://dev.welaika.com)
+
 ## License
 
 (The MIT License)

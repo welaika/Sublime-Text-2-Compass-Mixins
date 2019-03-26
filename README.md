@@ -1,6 +1,4 @@
-================
-Sublime Text 2 Compass Package
-================
+# Sublime Text 2 Compass Package
 
 Sublime Text 2 Compass Package is a collection of Compass mixins autocompletions for Sublime Text 2
 Author : Welaika - https://github.com/welaika/Sublime-Text-2-Compass-Mixins
@@ -20,7 +18,7 @@ made with ❤️ and ☕️ by [weLaika](http://dev.welaika.com)
 
 (The MIT License)
 
-Copyright © 2014 weLaika
+Copyright © 2014-2019 weLaika
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the ‘Software’), to deal in

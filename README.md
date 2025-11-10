@@ -1,5 +1,16 @@
 # Sublime Text 2 Compass Package
 
+![unmaintained](https://img.shields.io/badge/status-unmaintained-red)
+
+> ## **⚠️ This repository has been archived and is no longer actively maintained.**
+>
+>
+> ### What this means:
+>
+> - No further updates, bug fixes, or security patches will be provided.
+> - Issues and pull requests will not be addressed.
+> - Use this code at your own risk.
+
 Sublime Text 2 Compass Package is a collection of Compass mixins autocompletions for Sublime Text 2
 Author : Welaika - https://github.com/welaika/Sublime-Text-2-Compass-Mixins
 
